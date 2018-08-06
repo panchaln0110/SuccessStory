@@ -1380,6 +1380,9 @@ div.col-sm-2.col-6 {
     .mtt-185 {
         margin-top: -185px!important;
     }
+    .mbD-0{
+        margin-bottom: 0px;
+    }
     
     .wdt-60 {
         width: 20%;
@@ -1390,6 +1393,9 @@ div.col-sm-2.col-6 {
     .cimg-ic {
         height: 45px;
         width: 150px;
+    }
+    .bg-ss-color{
+        background-color: rgba(0,40,85,0.3);
     }
     
     .align-l {
